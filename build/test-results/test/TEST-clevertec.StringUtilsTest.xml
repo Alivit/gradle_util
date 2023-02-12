@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="clevertec.StringUtilsTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2023-02-10T21:47:37" hostname="LAPTOP-K0G8TMI0" time="0.061">
+  <properties/>
+  <testcase name="testNumber()" classname="clevertec.StringUtilsTest" time="0.061"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
